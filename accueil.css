@@ -1,0 +1,10 @@
+body{
+    width: 97%;
+    background-image: url("fit.jpg");
+    color:black;
+}
+div{
+    margin-right: 7%;
+    margin-left: 7%;
+    background: white;
+}
